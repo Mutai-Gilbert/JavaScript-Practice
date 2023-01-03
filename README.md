@@ -1,0 +1,1 @@
+Practicing JavaScript using MDN Documentation
